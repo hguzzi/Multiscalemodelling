@@ -11,3 +11,7 @@ PCN global (like graph diameter) or local descriptors (like node centrality meas
 Spike protein variants studied: Wild Type (no mutations) and variants of concern Omicron and Delta.
 
 Spike protein conformation studied: open state, closed state and complexed with ACE2 human receptor.
+
+Wild type: closed state (PDB:6VXX), open state (PDB:6VYB) and complex with ACE2 (PDB:7DF4)
+Omicron variant: closed state (PDB:7WK2) and complex with ACE2 (PDB:7WK4)
+Delta: closed state (PDB:7SBK) and complex with ACE2 (PDB:7W98)
