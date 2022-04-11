@@ -6,7 +6,11 @@ Protein Contact Network is an unweighted graph rappresentation of the protein: t
 
 ![image](https://user-images.githubusercontent.com/87126937/162151714-bf5ce554-14ad-4100-b4e9-6d95af19bca0.png)
 
-PCN global local descriptors, like node centrality measures, are useful to model and analyse protein functions. 
+PCN global descriptors (like graph diameter) or local descriptors (like node centrality measures) are useful to model and analyse protein functions. 
+
+In this study, the software PCN-Miner is used for the computation of the Protein Contact Networks and for the computation of node centralities.
+
+This study is a node centrality analysis on the Protein Contact Networks of the SARS-CoV-2 Spike Protein variants. The goal is to see if (and how) the mutations change the node centralities of the mutated node and his neighbours.
 
 Spike protein variants studied: Wild Type (no mutations) and variants of concern Omicron and Delta.
 
